@@ -1,0 +1,77 @@
+{
+  "name": "3d-portfolio-phantasy_ts",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mediapipe/tasks-vision": "^0.10.22-rc.20250304",
+    "@mui/icons-material": "^5.17.1",
+    "@mui/lab": "^5.0.0-alpha.165",
+    "@mui/material": "^5.15.10",
+    "@react-three/drei": "^9.99.0",
+    "@react-three/fiber": "^8.15.16",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.15.2",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "framer-motion": "^11.0.5",
+    "i18next": "^25.0.2",
+    "i18next-browser-languagedetector": "^8.1.0",
+    "maath": "^0.10.7",
+    "notistack": "^3.0.2",
+    "react": "^18.2.0",
+    "react-country-flag": "^3.1.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^15.5.1",
+    "react-icons": "^5.0.1",
+    "react-router-dom": "^6.22.1",
+    "react-scripts": "5.0.1",
+    "react-scroll": "^1.9.0",
+    "react-tilt": "^1.0.2",
+    "react-vertical-timeline-component": "^3.6.0",
+    "styled-components": "^6.1.8",
+    "three": "^0.161.0",
+    "typescript": "^5.8.3",
+    "typewriter-effect": "^2.21.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react-vertical-timeline-component": "^3.3.6",
+    "@types/three": "^0.176.0"
+  },
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "allowJs": true
+  },
+  "include": [
+    "src/**/*"
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "bio": {
+    "name": "Gleb",
+    "roles": [
+      "Web Full Stack Developer",
+      "Programmer"
+    ],
+    "description": "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "github": "https://github.com/ph4n7asy",
+    "resume": "../resume.pdf",
+    "telegram": "https://t.me/ph4n7asy",
+    "vk": "https://vk.com/ph4n7asy"
+  },
+  "menuItems": {
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "githubProfile": "Github profile"
+  },
+  "hero": {
+    "hello": "Hello there, I am",
+    "check_resume": "Check Resume"
+  },
+  "skills": {
+    "titleSection": "Skills",
+    "descriptionSection": "My tech stack - tools and approaches honed on real projects. Constantly expanding my expertise, focusing on production-grade solutions.",
+    "categoryList": [
+      {
+        "title": "Frontend",
+        "stack": [
+          {
+            "name": "React Js",
+            "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K"
+          },
+          {
+            "name": "Next Js",
+            "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII="
+          },
+          {
+            "name": "Vue js",
+            "image": "../images/skills/frontend/vue.svg"
+          },
+          {
+            "name": "HTML",
+            "image": "../images/skills/frontend/html5.webp"
+          },
+          {
+            "name": "CSS",
+            "image": "../images/skills/frontend/css3.webp"
+          },
+          {
+            "name": "JavaScript",
+            "image": "../images/skills/frontend/JavaScript-logo.webp"
+          }
+        ]
+      },
+      {
+        "title": "Backend",
+        "stack": [
+          {
+            "name": "Go Lang",
+            "image": "../images/skills/backend/go_logo.svg"
+          },
+          {
+            "name": "PHP",
+            "image": "../images/skills/backend/php.svg"
+          },
+          {
+            "name": "Symfony",
+            "image": "../images/skills/backend/Symfony_logo.svg"
+          },
+          {
+            "name": "Laravel",
+            "image": "../images/skills/backend/laravel.svg"
+          },
+          {
+            "name": "MySQL",
+            "image": "../images/skills/backend/mysql.svg"
+          },
+          {
+            "name": "PostgreSQL",
+            "image": "../images/skills/backend/postgresql.svg"
+          }
+        ]
+      },
+      {
+        "title": "DevOps",
+        "stack": [
+          {
+            "name": "Yandex Cloud",
+            "image": "../images/skills/devops/yandex_cloud.webp"
+          },
+          {
+            "name": "Docker",
+            "image": "../images/skills/devops/docker.svg"
+          },
+          {
+            "name": "Nginx",
+            "image": "../images/skills/devops/nginx.webp"
+          },
+          {
+            "name": "Gitlab",
+            "image": "../images/skills/devops/gitlab.svg"
+          }
+        ]
+      },
+      {
+        "title": "Others",
+        "stack": [
+          {
+            "name": "Git",
+            "image": "../images/skills/others/git.webp"
+          },
+          {
+            "name": "GitHub",
+            "image": "../images/skills/others/gitHub.webp"
+          },
+          {
+            "name": "Swagger",
+            "image": "../images/skills/others/swagger.svg"
+          },
+          {
+            "name": "Postman",
+            "image": "../images/skills/others/postman.webp"
+          },
+          {
+            "name": "Figma",
+            "image": "../images/skills/others/figma.webp"
+          }
+        ]
+      }
+    ]
+  },
+  "experiences": {
+    "titleSection": "Experience",
+    "descriptionSection": "Experience in integrated development: from designing structures to launching high-load systems.",
+    "experienceList": [
+      {
+        "id": 0,
+        "img": "../images/exp/williams-oliver.webp",
+        "role": "Fullstack developer",
+        "company": "Williams-oliver",
+        "date": "June 2022 - August 2022",
+        "desc": "In my work with Symfony and Vue.js, I have done various tasks, including API integration with external services, development and support of the internal admin panel, implementation of faceted search with dynamic filtering. I have set up Docker containers for local development and deployment, optimized search performance using Sphinx, worked with the MySQL database (data extraction, CRUD operations). In the stack: PHP 8, Symfony 6, Vue.js 2, Docker.",
+        "skills": [
+          "Vue JS",
+          "Nuxt",
+          "Vuetify",
+          "JavaScript",
+          "Symfony",
+          "Sphinx",
+          "Docker"
+        ]
+      },
+      {
+        "id": 1,
+        "img": "../images/exp/gavarymix.webp",
+        "role": "Fullstack developer",
+        "company": "Gavary Group",
+        "date": "December 2022 - February 2023",
+        "desc": "Developed a data management system on Laravel and React JS, processing 50K+ PostgreSQL records daily, reducing processing time by 40%. Created interfaces with role-based access, activity tracking, import/export of data to Excel. Optimized Docker deployment and created responsive React components with modern CSS techniques.",
+        "skills": [
+          "React JS",
+          "Laravel",
+          "PostgreSQL",
+          "Docker",
+          "HTML",
+          "CSS"
+        ]
+      },
+      {
+        "id": 2,
+        "img": "../images/exp/mtf.webp",
+        "role": "Backend developer",
+        "company": "MosTourFlot",
+        "date": "April 2023 - July 2023",
+        "desc": "Developed high-performance APIs on Symfony with MySQL, configured Docker environment from scratch, including multi-container setups. Built CI/CD pipelines in GitLab with automated testing. Optimized Nginx configuration to improve performance and security.",
+        "skills": [
+          "Symfony",
+          "MySQL",
+          "Docker",
+          "Gitlab",
+          "Nginx"
+        ]
+      },
+      {
+        "id": 3,
+        "img": "../images/exp/rtoperator.svg",
+        "role": "Fullstack developer",
+        "company": "RToperator",
+        "date": "September 2021 - Present",
+        "desc": "Developed high-performance solutions on Symfony, optimized MySQL queries (reduced execution time by 30-40%). Participated in the migration from Apache2 to Nginx (+25% to speed), implemented Docker and CI/CD pipelines in GitLab. This is the best team I have ever worked with.",
+        "skills": [
+          "PHP",
+          "Symfony",
+          "MySQL",
+          "React",
+          "HTML",
+          "CSS",
+          "Nginx",
+          "Docker",
+          "Gitlab"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "titleSection": "Projects",
+    "descriptionSection": "Here are some of the key projects I've been involved in. Each one represents a unique technological challenge and my approach to development.",
+    "visit": "Visit",
+    "projectList": [
+      {
+        "id": 0,
+        "title": "Rus tour travel",
+        "date": "June 2023 - August 2024",
+        "description": "Tour aggregator in Russia - choose a tour for every taste...",
+        "image": "../images/projects/rustourtravel.webp",
+        "tags": [
+          "Symfony",
+          "Next JS",
+          "MySQL"
+        ],
+        "category": "web-app",
+        "webapp": "https://www.rustourtravel.ru/"
+      },
+      {
+        "id": 1,
+        "title": "Williams Oliver",
+        "date": "June 2022 - August 2022",
+        "description": "Online store of goods for home and kitchen...",
+        "image": "../images/projects/wo_screen.webp",
+        "tags": [
+          "Docker",
+          "Symfony",
+          "Vue JS",
+          "Sphinx",
+          "MySQL"
+        ],
+        "category": "web-app",
+        "webapp": "https://williams-oliver.ru/"
+      },
+      {
+        "id": 3,
+        "title": "ISTK",
+        "date": "February 2021 - December 2021",
+        "description": "Official distributor of special equipment...",
+        "image": "../images/projects/istk.webp",
+        "tags": [
+          "Docker",
+          "Laravel",
+          "Vue JS",
+          "PostgreSQL"
+        ],
+        "category": "web-app",
+        "webapp": "https://istk.ru/"
+      },
+      {
+        "id": 4,
+        "title": "Nta tyre",
+        "date": "October 2020 - May 2021",
+        "description": "Official dealer of world leaders in the production of industrial and agricultural tires...",
+        "image": "../images/projects/nta-tyre.webp",
+        "tags": [
+          "Symfony",
+          "React JS",
+          "PostgreSQL"
+        ],
+        "category": "web-app",
+        "webapp": "https://nta-tyre.ru/"
+      },
+      {
+        "id": 5,
+        "title": "ISTK deutz",
+        "date": "January 2022 - November 2022",
+        "description": "DEUTZ AG is one of the largest independent manufacturers of environmentally friendly industrial diesel engines...",
+        "image": "../images/projects/istk-deutz.webp",
+        "tags": [
+          "Docker",
+          "Symfony",
+          "Next JS",
+          "MySQL"
+        ],
+        "category": "web-app",
+        "webapp": "https://istk-deutz.ru/"
+      },
+      {
+        "id": 6,
+        "title": "Rtoperator",
+        "date": "September 2021 - Present",
+        "description": "Rus tour operator is one of the leading organizers of exciting trips around Russia and river cruises.",
+        "image": "../images/projects/rtoperator.webp",
+        "tags": [
+          "PHP",
+          "Symfony",
+          "React JS",
+          "MySQL",
+          "Docker"
+        ],
+        "category": "web-app",
+        "webapp": "https://rtoperator.ru/"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "titleForm": "Email me",
+    "email": "Your Email",
+    "name": "Your name",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send",
+    "emailRequired": "Email is required",
+    "invalidEmail": "Invalid email format",
+    "nameRequired": "Name is required",
+    "messageRequired": "Message is required",
+    "failedSendMessage": "Failed to send message",
+    "successSendMessage": "Message sent successfully!",
+    "sendingMessage": "Sending...",
+    "unknownError": "Sorry, unknown error"
+  }
+}
